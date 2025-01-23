@@ -1,4 +1,6 @@
-# ZyXEL DNS projesi [DÖKÜMANTASYON TAMAMLANMADI]
+# ZyXEL DNS dökümantasyonu
+(Bitirmeye üşendiğim için böyle duruyor)
+
 Türk Telekom tarafından varsayılan olarak dağıtılan ZyXEL model modemin arayüzünde normalde olması gereken kısımda DNS ayarları gizlenmiş durumda. Bunun sebebi, muhtemelen Türk Telekom'un kendi atadığı dinamik DNS sunucularını kullanmanızı istemesidir.
 
 # HTML sayfasında ufak bir düzenleme
